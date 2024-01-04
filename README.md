@@ -1,5 +1,5 @@
 <h2> 🔭 About Me </h2>
-<img src="https://sun75-2.userapi.com/impg/JHBDhF8U2OWAHxd44qJJQSrBWqGVqntxl7pK-Q/u5Ij3xTLcz8.jpg?size=1620x2160&quality=96&sign=8bf2dc8c1bb04f75e1e8376c75e3c4c4&type=album" width="250" align="end"/>
+<img src="https://sun75-2.userapi.com/impg/JHBDhF8U2OWAHxd44qJJQSrBWqGVqntxl7pK-Q/u5Ij3xTLcz8.jpg?size=1620x2160&quality=96&sign=8bf2dc8c1bb04f75e1e8376c75e3c4c4&type=album" width="250"/>
 <h4>I am 21 years old, I live in Kaliningrad
 Outside of work, I enjoy music and travel, finding
 inspiration in them</h4>
@@ -13,6 +13,8 @@ career results.
 experience working in a small student team allowed me to explore new technologies and
 approaches in development.
 
+- 💼: As part of my internship at the project, I participated in the development of an extensive web project for the sale
+of works of art. Because of my little experience, I was tasked with changing the styles and designing the pages of the site.I set up the registration page and worked on the sidebar
 ---
 
 <h4> 🔧 Languages and Tools:</h3>
@@ -26,8 +28,13 @@ approaches in development.
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomilinDmitry&show_icons=true&theme=calm_pink&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 </div>
 <div id="header" align="center">
+  <h1>Thanks for reading this</h1>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 </div>
   <div id="badges" align="center">
@@ -41,6 +48,8 @@ approaches in development.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-TomilinDmitry&style=flat-square&color=green" alt="counter" />
 </div>
+
+---
 
 <!--
 **TomilinDmitry/TomilinDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
