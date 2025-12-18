@@ -40,7 +40,7 @@ of works of art. Because of my little experience, I was tasked with changing the
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 </div>
   <div id="badges" align="center">
-  <a href="https://t.me/enjosss">
+  <a href="https://t.me/dftoms">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/crymore3">
